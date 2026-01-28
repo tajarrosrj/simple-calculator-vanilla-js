@@ -1,14 +1,14 @@
-# 🔢 Simple Calculator (Responsive)
+# Simple Calculator (Responsive)
 
-## 📌 Description
+## Description
 A simple calculator using inline HTML, CSS, and JavaScript. It supports basic math operations like addition, subtraction, multiplication, and division. The layout is responsive for mobile and desktop.
 
-## 🛠 Tech Stack
+## Tech Stack
 - HTML
 - CSS (inline)
 - JavaScript (inline)
 
-## 🚀 How to Use
+## How to Use
 1. **Download the project:**
    - Click the green `Code` button and choose `Download ZIP`, then extract it.
    - **OR** run this command:
